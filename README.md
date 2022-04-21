@@ -12,12 +12,12 @@ Desafio de HTML e CSS de nível iniciante proposto pelo site Front-end Mentor
 
 ### Desktop
 
-![active-states](D:\sites\Desafios Css\Landing Page huddle\screenshot\active-states.jpg)
+![active-states](screenshot\active-states.jpg)
 
-![desktop-design](D:\sites\Desafios Css\Landing Page huddle\screenshot\desktop-design.jpg)
+![desktop-design](screenshot\desktop-design.jpg)
 
 
 
 ### Mobile
 
-![mobile-design](D:\sites\Desafios Css\Landing Page huddle\screenshot\mobile-design.jpg)
+![mobile-design](screenshot\mobile-design.jpg)
