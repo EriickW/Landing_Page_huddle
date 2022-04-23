@@ -12,12 +12,12 @@ Desafio de HTML e CSS de nível iniciante proposto pelo site Front-end Mentor
 
 ### Desktop
 
-![active-states](screenshot\active-states.jpg)
+![active-states](/screenshot/active-states.jpg)
 
-![desktop-design](screenshot\desktop-design.jpg)
+![desktop-design](/screenshot/desktop-design.jpg)
 
 
 
 ### Mobile
 
-![mobile-design](screenshot\mobile-design.jpg)
+![mobile-design](/screenshot/mobile-design.jpg)
