@@ -2,7 +2,7 @@
 # Landing Page Huddle
 
 Desafio de HTML e CSS de nível iniciante proposto pelo site Front-end Mentor
-
+ - [Acesse Aqui para ver o site](https://eriickw.github.io/Landing_Page_huddle/)
 ## Referência
 
  - [Link do desafio](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
